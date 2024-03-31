@@ -54,13 +54,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/parsakhalaji" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=green alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=green&color=333333 alt=linkedin/>
 </a>
 <a href="https://github.com/parsakhalaji" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=green alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=green&color=333333 alt=github/>
 </a>
 <a href="https://medium.com/parsa.khalaji" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=green&color=333333 alt=medium" />
 </a>  
 </div>  
   
@@ -73,7 +73,7 @@
 
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=parsakhalaji&&style=for-the-badge&&color=brightgreen" align="center" />
+<img src="https://komarev.com/ghpvc/?username=parsakhalaji&&style=for-the-badge&&color=yellowgreen" align="center" />
 </div>  
   
 

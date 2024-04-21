@@ -7,8 +7,6 @@
   
 
 <br/>  
-
-### See my simple responsive webpage [Here](https://parsakhalaji.github.io/responsive-single-page/)
 <br/>
 
 ## My Skill Set  

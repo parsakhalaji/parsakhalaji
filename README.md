@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/parsakhalaji/parsakhalaji/blob/main/github-header-image%20(4).png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/parsakhalaji/parsakhalaji/blob/main/Black Minimalist Linkedin Banner.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
